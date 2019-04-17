@@ -1,4 +1,4 @@
-﻿token=NTY4MTE3Nzg5MTkwMjU4Njg4.XLda8Q.OD3CyezyE69GD8nr2NvB6NpjuzM
+token=NTY4MTE3Nzg5MTkwMjU4Njg4.XLda8Q.OD3CyezyE69GD8nr2NvB6NpjuzM
 owner=282066712654774282
 prefix= t
 game= بطاطا#2022
